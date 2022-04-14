@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20220213_131106_jpg.rf.5fa56fc216dca1906bf093bdc8d1af2c.jpg</filename>
+	<path>20220213_131106_jpg.rf.5fa56fc216dca1906bf093bdc8d1af2c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bootlegger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>296</xmax>
+			<ymin>18</ymin>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
